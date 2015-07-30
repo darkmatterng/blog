@@ -250,13 +250,14 @@ li {
 
 #mainbody {
     background-color:#000;
+   
 }
 
 #middle {
-    float:left;
     width:576px;
     background-color:#FFF;
     margin:0 192px;
+    min-height:200px;
 }
 
 /*https://css-tricks.com/snippets/css/clear-fix/*/
